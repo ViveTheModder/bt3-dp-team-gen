@@ -1,4 +1,4 @@
-# bt3-dp-team-generator
+# bt3-dp-team-gen
 For full disclosure, in spite of what my name says, this is NOT a modding tool.
 
 It's more or less a simple Java project made in Eclipse, which returns a randomly generated team once the user specifies the DP Limit (maximum total score of the team) and the number of characters/teammates for both teams.
