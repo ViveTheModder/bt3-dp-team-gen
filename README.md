@@ -6,7 +6,9 @@ It's more or less a simple Java project made in Eclipse, which returns a randoml
 Special Thanks to [jagger1407](https://github.com/jagger1407) for providing feedback and much-needed suggestions.
 
 ## Usage/Preview
-![preview1](https://github.com/ViveTheModder/bt3-dp-team-generator/blob/main/img/demo.png)
+![preview1](https://github.com/ViveTheModder/bt3-dp-team-generator/blob/demo-cmd.png)
+
+https://github.com/ViveTheModder/bt3-dp-team-gen/assets/93151014/6c96f48d-7ad4-4fa5-a8ec-ff883e54e233
 
 ## Known Issues
 * As of now, this program is command-line only.
