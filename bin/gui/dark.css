@@ -1,0 +1,22 @@
+.root, .list-view {
+	-fx-background-color: #404040;
+}
+.label, .radio-button, .list-cell {
+	-fx-text-fill: white;
+}
+.list-cell:even {
+	-fx-background-color: #404040;
+}
+.list-cell:odd {
+	-fx-background-color: #202020;
+}
+#genTeamsBtn {
+	-fx-background-color: #049e72;
+	-fx-text-fill: #a9fbd1;
+	-fx-font-weight: bold;
+}
+.tooltip {
+	-fx-background-color: rgba(135, 122, 155, 0.75);
+	-fx-font-weight: bold;
+	-fx-font-size: 12px;
+}

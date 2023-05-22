@@ -1,0 +1,17 @@
+#genTeamsBtn {
+	-fx-background-color: #049e72;
+	-fx-text-fill: #a9fbd1;
+	-fx-font-weight: bold;
+}
+#themeBtn {
+	-fx-background-color: #202020;
+	-fx-text-fill: white;
+}
+.list-view {
+	-fx-background-color: #f4f4f4;
+}
+.tooltip {
+	-fx-background-color: rgba(135, 122, 155, 0.75);
+	-fx-font-weight: bold;
+	-fx-font-size: 12px;
+}
