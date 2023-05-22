@@ -11,7 +11,6 @@ Special Thanks to [jagger1407](https://github.com/jagger1407) for providing feed
 https://github.com/ViveTheModder/bt3-dp-team-gen/assets/93151014/6c96f48d-7ad4-4fa5-a8ec-ff883e54e233
 
 ## Known Issues
-* As of now, this program is command-line only.
 * I cannot get a proper runnable JAR release of the program because of certain issues with Eclipse's export feature.
   Because of that, there are no download/build instructions provided. Guilty as charged.
 * This program is a work-in-progress, and it does NOT take into consideration which characters are repeatable or not, as well as Budokai Tenkaichi 3's transformation restriction system in general.
